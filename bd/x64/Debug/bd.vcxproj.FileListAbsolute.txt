@@ -1,0 +1,18 @@
+D:\22и\Шамшура\С++\База данных в27\bd\x64\Debug\bd.MyForm.resources
+D:\22и\Шамшура\С++\База данных в27\bd\x64\Debug\bd.vcxproj.GenerateResource.cache
+D:\22и\Шамшура\С++\База данных в27\bd\x64\Debug\bd.exe
+D:\Учеба\С++\База данных в_14\bd\x64\Debug\bd.vcxproj.AssemblyReference.cache
+D:\Учеба\С++\База данных в_14\bd\x64\Debug\bd.vcxproj.SuggestedBindingRedirects.cache
+D:\Учеба\С++\База данных в_14\bd\x64\Debug\bd.MyForm.resources
+D:\Учеба\С++\База данных в_14\bd\x64\Debug\bd.vcxproj.GenerateResource.cache
+D:\Учеба\С++\База данных в_14\bd\x64\Debug\bd.exe
+D:\Учеба\С++\bd\x64\Debug\bd.vcxproj.AssemblyReference.cache
+D:\Учеба\С++\bd\x64\Debug\bd.vcxproj.SuggestedBindingRedirects.cache
+D:\Учеба\С++\bd\x64\Debug\bd.MyForm.resources
+D:\Учеба\С++\bd\x64\Debug\bd.vcxproj.GenerateResource.cache
+D:\Учеба\С++\bd\x64\Debug\bd.exe
+D:\Учеба\bd\x64\Debug\bd.vcxproj.AssemblyReference.cache
+D:\Учеба\bd\x64\Debug\bd.vcxproj.SuggestedBindingRedirects.cache
+D:\Учеба\bd\x64\Debug\bd.MyForm.resources
+D:\Учеба\bd\x64\Debug\bd.vcxproj.GenerateResource.cache
+D:\Учеба\bd\x64\Debug\bd.exe

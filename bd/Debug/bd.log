@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Учеба\С++\База данных в_14\bd\MyForm.cpp(8,15): warning C4551: в вызове функции отсутствует список аргументов
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  bd.vcxproj -> D:\Учеба\С++\База данных в_14\bd\Debug\bd.exe
